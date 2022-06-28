@@ -1,5 +1,5 @@
-import { Component } from 'react';
 import React from 'react';
+import { Component } from 'react';
 
 import MarvelService from '../../services/MarvelService';
 import Spinner from '../spinner/Spinner';
